@@ -1,5 +1,3 @@
-# Excel-sales-analytics
-
 # Excel Sales Analytics
 
 A collection of practical **Excel Data Analytics and Business Intelligence projects** focused on sales performance, financial analysis, revenue analysis, KPI reporting, and business decision-making.
